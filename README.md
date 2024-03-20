@@ -1,2 +1,2 @@
 # stocks-prediction
-This project focuses on leveraging machine learning models to predict stock market movements by combining technical and sentiment analysis. 
+This project focuses on employing machine learning techniques for stock market prediction through technical and sentiment analysis. By utilizing historical time series data and sentiment extracted from news articles, I aim to develop effective forecasting strategies. The objective is to provide actionable insights for traders, aiding in the identification of opportune moments for buying and selling stocks. The analysis centers on six prominent FTSE 100 companies spanning diverse sectors, such as oil, pharmaceuticals, finance, and consumer goods. 
